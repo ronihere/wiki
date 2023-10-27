@@ -1,0 +1,1 @@
+export const BASE_URI = 'https://en.wikipedia.org/w/api.php?';
